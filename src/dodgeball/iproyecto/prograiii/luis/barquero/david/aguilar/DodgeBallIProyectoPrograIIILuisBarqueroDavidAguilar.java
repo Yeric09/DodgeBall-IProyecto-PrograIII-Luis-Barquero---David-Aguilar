@@ -5,6 +5,8 @@
  */
 package dodgeball.iproyecto.prograiii.luis.barquero.david.aguilar;
 
+import Nada.nada;
+
 /**
  *
  * @author Lenovo
@@ -16,7 +18,9 @@ public class DodgeBallIProyectoPrograIIILuisBarqueroDavidAguilar {
      */
     public static void main(String[] args) {
         // TODO code application logic here\
-        //Cualquier estupedez
+        nada n = new nada(3);
+        int c = 3;
+        System.out.print(n.suma(c));
     }
     
 }
